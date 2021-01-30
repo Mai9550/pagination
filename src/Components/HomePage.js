@@ -12,7 +12,7 @@ const HomePage = () =>{
         <Container >
 
 <Navbar expand="lg" variant="light" bg="light">
-        <Navbar.Brand href="#">Navbar</Navbar.Brand>
+        <Navbar.Brand href="#">Home</Navbar.Brand>
       </Navbar>
       <h1  style={{textAlign:'center',marginTop:50}}>Choose a category to continue</h1>
      <div style={{display:'flex',justifyContent:'center'}}>
